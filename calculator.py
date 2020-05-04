@@ -1,3 +1,4 @@
+#Importing math module for math.sqrt() function
 import math
 
 #User input notes
